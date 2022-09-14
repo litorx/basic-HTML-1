@@ -38,8 +38,5 @@
         <li>20g de salsinha picada</li>
         </font>
     </ul>
-    <ol>
-
-    </ol>
 </body>
 </html>
